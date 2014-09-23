@@ -1,0 +1,32 @@
+{
+  "name": "gunbai",
+  "version": "0.0.1",
+  "description": "tiny AMD Define Unpacker, to create stand alone SumoJS micro libs.",
+  "main": "src/gunbai.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dmikey/gunbai.git"
+  },
+  "keywords": [
+    "amd",
+    "unpack",
+    "standalone",
+    "stand",
+    "alone",
+    "micro"
+  ],
+  "author": "Derek M. Anderson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dmikey/gunbai/issues"
+  },
+  "homepage": "https://github.com/dmikey/gunbai",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-uglify": "^0.6.0"
+  }
+}
