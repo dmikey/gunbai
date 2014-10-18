@@ -4,7 +4,7 @@ module.exports = function(grunt) {
    uglify: {
       dist: {
         files: {
-          'dist/gunabi.min.js': ['src/gunbai.js']
+          'dist/gunbai.min.js': ['src/gunbai.js']
         }
       }
     },
